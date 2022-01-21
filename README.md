@@ -1,6 +1,7 @@
 # Colour-Tunning-Camera-KRSBI
-Ini program OpenCV untuk Colour Tunning Camera
 
-Program 1 - 6 itu tuh step by stepnya
+Ini adalah program OpenCV untuk segmentasi objek menggunakan warna
 
-Program 7 itu tuh FINALnya
+Beberapa method dan algoritma telah dicoba
+
+Yang paling optimal adalah program nomor 7
